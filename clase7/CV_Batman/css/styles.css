@@ -13,7 +13,6 @@ h1{
     line-height: 84.69%;
     text-align: center;
     /* identical to box height, or 30px */
-
     font-feature-settings: 'cpsp' on;
     text-transform: uppercase;
     color: #005677;
@@ -27,13 +26,19 @@ h2{
     font-size: 20px;
     line-height: 84.69%;
     /* identical to box height, or 17px */
-    
+    text-transform: uppercase;
     font-feature-settings: 'cpsp' on;
-    
     color: #005677;
     background-color: rgba(196, 196, 196, 1);
 }
 
 body ul li span{
     font-weight: bold;
+}
+
+footer{
+    background-color: rgba(0, 86, 119, 1);
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
 }
