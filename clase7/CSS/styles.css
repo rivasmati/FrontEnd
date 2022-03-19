@@ -1,0 +1,14 @@
+h1{
+    color: rgb(175, 60, 130);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: r2;
+}
+
+.textoAlt{
+    color: aquamarine;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
