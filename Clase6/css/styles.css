@@ -1,0 +1,14 @@
+header p{
+    background-color: black;
+    color: white;
+}
+
+header{
+    background-color: rgba(240, 168, 62, 1) ;
+}
+
+body main section#fotoFondo{
+    background-image: url("../img/Background.png");
+    background-repeat: no-repeat;
+}
+
